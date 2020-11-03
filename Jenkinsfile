@@ -20,7 +20,7 @@
 
 // docker run \
 //   -u root \
-//   -d \
+//   -de \
 //   --name blue-ocean \
 //   -p 8080:8080 \
 //   -v jenkins-data:/var/jenkins_home \
